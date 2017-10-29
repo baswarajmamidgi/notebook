@@ -34,6 +34,9 @@ For a local installation, make sure you have
 [pip installed](https://pip.readthedocs.io/en/stable/installing/) and run:
 
     $ pip install notebook
+    
+    
+Visit http://jupyter.org/install.html for complte installation guide
 
 ## Usage - Running Jupyter notebook
 
